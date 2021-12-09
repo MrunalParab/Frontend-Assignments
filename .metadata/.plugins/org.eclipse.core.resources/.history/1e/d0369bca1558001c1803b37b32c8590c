@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<table>
+  <tr>
+    <td colspan="2">Top</td>
+  </tr>
+  <tr>
+    <td>Left</td>
+    <td>Right</td>
+  </tr>
+</table>
+
+<h2> 9th Question </h2>
+<table>
+  <tr>
+    <td>TopLeft</td>
+    <td>TopRight</td>
+  </tr>
+  <tr>
+    <td>BottomLeft</td>
+    <td>BottomRight</td>
+  </tr>
+</table>
+</body>
+</html>

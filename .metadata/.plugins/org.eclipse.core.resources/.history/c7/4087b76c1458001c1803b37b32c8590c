@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<table>
+  <tr>
+    <td>100</td>
+  </tr>
+</table>
+
+<h2> 3rd Question-2 </h2>
+<table>
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
+  </tr>
+</table>
+
+<h2> 3rd Question-3 </h2>
+<table>
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>300</td>
+  </tr>
+  <tr>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
+  </tr>
+</table>
+</body>
+</html>

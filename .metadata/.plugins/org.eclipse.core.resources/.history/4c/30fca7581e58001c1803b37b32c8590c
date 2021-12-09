@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+h1 {
+  text-align: center;
+  font-size: 1em;
+  color: #009;
+  margin-bottom: .3em;
+  text-decoration: underline;
+}
+
+table th,tr,td {
+  border: 4px solid #008000;
+  background-color: #ffc;
+}
+
+
+
+
+#trHeader {
+  text-decoration: underline;
+  color: #900;
+}
+
+.centerCell {
+  text-align: center;
+}

@@ -4,4 +4,5 @@
   <module moduleId="org.eclipse.jst.jee.server:CSS Assignment" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:HTML_CSS_Assignment" serverId="Tomcat v9.0 Server at localhost"/>
   <module moduleId="org.eclipse.jst.jee.server:Assignment-1.1" serverId="Tomcat v9.0 Server at localhost"/>
+  <module moduleId="org.eclipse.wst.web.internal.deployables.static:Javascript Assignment" serverId="HTTP Preview at localhost"/>
 </modules>
